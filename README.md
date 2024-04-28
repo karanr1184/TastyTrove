@@ -1,3 +1,5 @@
+# Deployed website link: [Tasty Trove](https://tasty-trove-1y3z9h1rq-karanr1184s-projects.vercel.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
